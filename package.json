@@ -1,0 +1,31 @@
+{
+  "name": "David",
+  "version": "1.0.0",
+  "description": "your personal extra thicc maid~",
+  "main": "sharding.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icw-Numen/ivy-bot"
+  },
+  "author": "Davıd#3990",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "danbooru": "^3.0.7",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "mongodb": "^3.1.1",
+    "ms": "^2.1.1",
+    "node-gyp": "^3.7.0",
+    "npm": "^6.1.0",
+    "opusscript": "0.0.6",
+    "rebuild": "^0.1.2",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl-core": "^0.20.4",
+    "ytdl-getinfo": "^1.0.6"
+  }
+}
