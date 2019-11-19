@@ -1,14 +1,14 @@
 {
   "name": "David",
   "version": "1.0.0",
-  "description": "your personal extra thicc maid~",
+  "description": "DiscordBotty",
   "main": "sharding.js",
   "scripts": {
     "test": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icw-Numen/ivy-bot"
+    "url": "https://github.com/CrypticKingJoe/Jesmine"
   },
   "author": "Davıd#3990",
   "license": "MIT",
