@@ -4,7 +4,8 @@
   "description": "DiscordBotty",
   "main": "sharding.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "node app.js"
+	"start": "node app.js"
   },
   "repository": {
     "type": "git",
